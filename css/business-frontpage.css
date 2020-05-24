@@ -1,8 +1,18 @@
-/*!
- * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
- */
 body {
   padding-top: 56px;
+}
+
+.social-icon {
+  width: 30px;
+  height: 30px; 
+}
+
+.dsug-logo {
+  width: 450px;
+  height: 200px;
+  align-content: center; 
+}
+
+.bgc {
+  background-color: #343a40;
 }
