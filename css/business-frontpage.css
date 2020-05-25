@@ -8,8 +8,9 @@ body {
 }
 
 .dsug-logo {
-  width: 450px;
-  height: 200px;
+  max-width: 450px;
+  height: auto;
+  display:block;
   align-content: center; 
 }
 
