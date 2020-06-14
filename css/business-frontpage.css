@@ -17,3 +17,12 @@ body {
 .bgc {
   background-color: #343a40;
 }
+
+@media only screen and (max-width: 600px){
+    .dsug-logo {
+      width: 100%;
+      height: auto;
+      display:block;
+      align-content: center; 
+  }
+  } 
